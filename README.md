@@ -10,8 +10,8 @@ Make sure to check off your items as you complete them. [ ] => [x]
 #### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/fanpage
 - [x] Fork this repository to your github account and clone to a new workspace
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [x] Add, commit, and push your changes
+- [x] Make your site live on gh-pages
 #### HTML
 - [x] Change the header to display the name of the fan page on each html page
 - [x] Link the a tags in the navbar to the correct .html files on each html page

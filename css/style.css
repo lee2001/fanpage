@@ -17,3 +17,43 @@ a {
     width: 30px;
     margin: 15px;
 }
+.navbar{
+    display:flex;
+    justify-content:space-around;
+    border:5px black solid;
+    background-color: #efeb02;
+}
+.header{
+    display:flex;
+    justify-content:space-around;
+    font-size:30px;
+}
+
+.footer{
+    display:flex;
+    justify-content:space-around;
+}
+
+.thumbnail-image{
+    height:200px;
+    width:200px;
+}
+
+.gallery{
+    display:flex;
+    justify-content:space-around;
+}
+.aboutMain{
+    display:flex;
+    width:100%;
+}
+.leftPane{
+    width:60%;
+}
+.rightPane{
+    width:40%;
+}
+.efya{
+    height:250px;
+    width:250px;
+}
